@@ -77,20 +77,26 @@ header {
 
 }
 .b_content h1 {
-  font-family: poppins;
+   font-family: "Poppins", serif;
+  font-weight: 400;
+  font-style: normal;
   font-size: 72px;
   color: #0F2656;
   margin: 0;
 }
 .b_content h2 {
-  font-family: poppins;
+   font-family: "Poppins", serif;
+  font-weight: 400;
+  font-style: normal;
   font-size: 72px;
   color: #008AFF;
   margin: 0;
 }
 
 .b_content p {
-  font-family: poppins;
+   font-family: "Poppins", serif;
+  font-weight: 400;
+  font-style: normal;
     font-size: 16px;
     color: #0F2656;
     line-height: 25px;
@@ -111,7 +117,9 @@ header {
 }
 
 .s_content {
-  font-family: poppins;
+   font-family: "Poppins", serif;
+  font-weight: 400;
+  font-style: normal;
   overflow: hidden;
   /* border: 1px solid; */
 }
@@ -162,7 +170,9 @@ header {
 .f_single {
   width: 29%;
   /* border: 1px solid; */
-  font-family: poppins;
+   font-family: "Poppins", serif;
+  font-weight: 400;
+  font-style: normal;
   padding: 30px 25px 40px;
   float: left;
   margin-right: 20px;
@@ -201,7 +211,9 @@ header {
 /* footer start */
   footer {
     background-color: #008AFF;
-    font-family: poppins;
+     font-family: "Poppins", serif;
+  font-weight: 400;
+  font-style: normal;
     width: 100%;
   }
 
@@ -218,7 +230,7 @@ header {
     font-size: 18px;
     color: white;
     font-weight: 700;
-    letter-spacing: 8px;
+    letter-spacing: 2px;
 
   }
 
